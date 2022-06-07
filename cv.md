@@ -23,11 +23,11 @@ Unitary Enterprise "Glorium Technologies" | November 2021 - Present
 ***
 
 ### Education
-- AUTHOR'S COURSE KRAMARENKO Y.
+###### AUTHOR'S COURSE KRAMARENKO Y.
   _"TEST AUTOMATION WITH JAVA / SELENIDE"
-- BELARUSIAN-RUSSIAN UNIVERSITY (MOGILEV)
+###### BELARUSIAN-RUSSIAN UNIVERSITY (MOGILEV)
   _Graduated with honors with a degree"Automated control systems".
-- BELARUSIAN-RUSSIAN UNIVERSITY (MOGILEV)
+###### BELARUSIAN-RUSSIAN UNIVERSITY (MOGILEV)
   _Graduated with a degree in "Translator-assistant (English lang.)"
 
 ***

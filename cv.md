@@ -1,4 +1,6 @@
 # Natallia Bialiatskaya
+![my_photo](/img/Natallia.png)
+
 I am a hardworking, quicklearning, responsible and friendly person. I like learning and developing my professional skills and abilities. 
 
 ### Contacts
@@ -18,7 +20,7 @@ I am a hardworking, quicklearning, responsible and friendly person. I like learn
 
 ### Current work
 ##### AUTOMATION QA ENGINEER
-Unitary Enterprise "Glorium Technologies" | November 2021 - Present
+Unitary Enterprise "Glorium Technologies" |  November 2021 - Present
 
 ***
 

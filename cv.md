@@ -18,9 +18,15 @@ I am a hardworking, quicklearning, responsible and friendly person. I like learn
 
 ***
 
-### Current work
-##### AUTOMATION QA ENGINEER
-Unitary Enterprise "Glorium Technologies" |  November 2021 - Present
+### Experience
+##### Automation QA Engineer
+##### Unitary Enterprise "Glorium Technologies" |  November 2021 - Present
+- Develop UI/API tests, execute, analyze results, report defects
+- UI automation (Selenide, Java), API automation (Rest assured)
+- Increase testing performance
+- Communicate with client on the daily base to provide the result of testing
+- Follow / advice best practices and agreed AQA process
+- Participate in a new features analysis before implementation
 
 ***
 

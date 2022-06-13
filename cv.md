@@ -1,5 +1,5 @@
 # Natallia Bialiatskaya
-![my_photo](/img/Natallia.png)
+![my_photo](/img/Natallia.jpg)
 
 I am a hardworking, quicklearning, responsible and friendly person. I like learning and developing my professional skills and abilities. 
 

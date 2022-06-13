@@ -25,11 +25,11 @@ Unitary Enterprise "Glorium Technologies" |  November 2021 - Present
 ***
 
 ### Education
-###### AUTHOR'S COURSE KRAMARENKO Y.
-"TEST AUTOMATION WITH JAVA / SELENIDE"
-###### BELARUSIAN-RUSSIAN UNIVERSITY (MOGILEV)
+###### Author's course Kramarenko Y.
+"Test Automation With Java / Selenide"
+###### Belarusian-Russian University (Mogilev)
 Graduated with honors with a degree"Automated control systems".
-###### BELARUSIAN-RUSSIAN UNIVERSITY (MOGILEV)
+###### Belarusian-Russian University (Mogilev)
 Graduated with a degree in "Translator-assistant (English lang.)"
 
 ***
@@ -41,8 +41,11 @@ Graduated with a degree in "Translator-assistant (English lang.)"
 
 ***
 
+### Code example
 ```javascript
 // my code on codewars.com
+// Your task is to create the functionisDivideBy (or is_divide_by) 
+// to check if an integer number is divisible by both integers a and b.
 function isDivideBy(number, a, b) {
   // good luck
   return (number % a == 0) && (number % b == 0);

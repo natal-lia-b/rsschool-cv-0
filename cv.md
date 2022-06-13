@@ -38,3 +38,13 @@ Graduated with a degree in "Translator-assistant (English lang.)"
 * Belarusian (native)
 * Russian (native)
 * English (B2)
+
+***
+
+```javascript
+// my code on codewars.com
+function isDivideBy(number, a, b) {
+  // good luck
+  return (number % a == 0) && (number % b == 0);
+}
+```

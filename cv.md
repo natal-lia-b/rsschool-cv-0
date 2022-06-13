@@ -30,9 +30,20 @@ I am a hardworking, quicklearning, responsible and friendly person. I like learn
 
 ***
 
-### Education
+### Education and courses
+###### Course on Code Basics
+2022
+"HTML basics for beginners"
+###### Course on Code Basics
+2022
+"CSS basics for beginners"
+###### RS Schools 
+2022
+«JavaScript/Front-end. Stage 0»
 ###### Author's course Kramarenko Y.
+2021
 "Test Automation With Java / Selenide"
+
 ###### Belarusian-Russian University (Mogilev)
 Graduated with honors with a degree"Automated control systems".
 ###### Belarusian-Russian University (Mogilev)

@@ -4,12 +4,6 @@ body {
   margin: 0px auto; 
 }
 
-.top-menu .top-menu-item-text:hover {
-  text-decoration: underline;
-  color: #000000;
-  background-color: rgba(154, 237, 255, 0.5);
-}
-
 .top-menu {
   width: 95%;
   height: 50px;
@@ -21,19 +15,26 @@ body {
   background-color: #eeeeee;
 }
 
-.top-menu-item {
-  list-style-type: none;
-}
-
 .top-menu-item-text {
   display: list-item;
   font-weight: bold;
   color: #333333;
+  text-decoration: none;
+}
+
+.top-menu-item-text:hover {
+  text-decoration: underline;
+  color: #000000;
+  background-color: rgba(154, 237, 255, 0.5);
 }
 
 .menu-back {
   width: 100%;
   background-color: #eeeeee;
+}
+
+.menu-item {
+  list-style-type: none;
 }
 
 .bottom-menu {
@@ -47,21 +48,26 @@ body {
   background-color: #eeeeee;
 }
 
-.bottom-menu-item {
-  list-style-type: none;
-}
-
 .bottom-menu-item-text {
   display: list-item;
   font-weight: bold;
   color: #333333;
   padding: 0px 100px;
+  text-decoration: none;
+}
+
+.github-menu {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+	margin: 0;
+	padding: 0;
 }
 
 .left-section {
   background-color: #9aedff80;
   width: 300px;
-  height: 1720px;  
+  height: 1900px;  
   display: block;
   float: left;
   padding: 20px;
@@ -106,7 +112,7 @@ body {
 .right-section {
   background-color: #f8f8f8;
   width: 710px;
-  height: 1760px;
+  height: 1940px;
   margin-left: 340px;
   float: inline-end;
   padding-left: 30px;
@@ -168,6 +174,7 @@ h4 {
 
 .code-example {
   background-color: rgb(255, 255, 255);
+  width: 650px;
   border: 1px #ebebeb solid;
   padding-right: 30px;
   padding-bottom: 30px;

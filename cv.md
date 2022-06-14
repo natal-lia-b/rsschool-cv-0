@@ -11,7 +11,7 @@ I am a hardworking, quicklearning, responsible and friendly person. I like learn
 ***
 
 ### Skills
-* Programming language: Java              * Construction Languages: SQL
+* Programming language: Java              * SQL
 * Web UI Testing: Selenide, Selenium      * Version control systems: Git, SVN
 * Unit Testing: JUnit                     * Software Engineering Management: JIRA, Azure
 * Backend testing: Rest assured

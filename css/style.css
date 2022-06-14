@@ -1,0 +1,110 @@
+html {
+  font: 16px/1.5 Arial, sans-serif;
+  width: 1080px;
+  margin: 0px auto; 
+}
+
+nav {
+  overflow: hidden;
+  position: relative;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.nav-item {
+  float: left;
+  display: block;
+  padding: 10px 20px;
+  background-color: #eeeeee;
+  border: 1px solid #dddddd;
+}
+
+.nav-item:hover {
+  background-color: #dddddd;
+}
+
+.left-section {
+  background-color: rgba(154, 237, 255, 50%);
+  width: 300px;
+  display: block;
+  float: left;
+  padding: 20px;
+}
+
+.left-section p {
+  text-align: justify;
+  text-indent: 20px;
+}
+
+.left-section article {
+  margin-bottom: 60px;
+}
+
+.left-section h3 {
+  text-align: center;
+}
+
+.img-left {
+  width: 260px;
+  padding: 20px;
+}
+
+#contacts div {
+    margin-bottom: 15px;
+    text-overflow: auto;
+    display: flex;
+    align-items: center;
+}
+
+.img-contacts {
+  width: 32px;
+  margin-right: 25px;
+}
+
+.right-section {
+  background-color: #f8f8f8;
+  width: 780px;
+  margin-left: 340px;
+  float: inline-end;
+  padding-left: 30px;
+}
+
+h1 {
+  font: bold 48px caption Arial, sans-serif;
+  padding-top: 30px;
+}
+
+h2 {
+  font: italic 24px caption;
+  margin-bottom: 100px;
+}
+
+h3 {
+  margin-top: 100px;
+}
+
+h4 {
+  font-variant: small-caps;
+  font-weight: bold;
+  margin: 0px;
+}
+
+.job-title p {
+  font-style: italic;
+  margin: 0px;
+}
+
+
+.skills-list {
+  padding: 0px 20px;
+  height: 100px;
+  display: flex;
+  flex-direction: column; 
+  flex-wrap: wrap;
+}
+
+.skills-list li {
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+

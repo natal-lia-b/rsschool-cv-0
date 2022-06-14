@@ -5,7 +5,6 @@
         <meta name="description" content="CV Frontend developer ready to work">
         <meta name="author" content="Natallia Bialiatskaya">
         <meta name="keywords" content="job hunter, HTML, CSS, JS, frontend developer">
-
         <meta name="viewport" content="width=1080, initial-scale=1.0">
 
         <link rel="stylesheet" href="style.css">
@@ -13,7 +12,7 @@
         <title>Natallia Bialiatskaya</title>
     </head> 
     <body>
-        <header>
+        <header class="menu-back">
             <nav>
                 <ul class="top-menu" id="top-menu">
                     <li class="top-menu-item">
@@ -42,7 +41,7 @@
         </header>
 
         <main>
-            <section class="left-section">
+            <div class="left-section">
                 <article class="about-me" id="about-me">
                     <img class="img-left" src="assets/img/Natallia.jpg" alt="avatar">
                     <h3>About me</h3>
@@ -78,15 +77,15 @@
                     </div>
                     <div>
                         <img class="img-contacts" src="assets/img/Github2.png" alt="github">
-                        <a href="https://github.com/natal-lia-b">natal-lia-b</a>
+                        <a href="https://github.com/natal-lia-b/rsschool-cv/">natal-lia-b</a>
                     </div>
                     <div>
                         <img class="img-contacts" src="assets/img/linkedin.jpg" alt="linkedIn">
                         <a href="https://www.linkedin.com/in/natallia-bialiatskaya">natallia-bialiatskaya</a>
                     </div>
                 </article>
-            </section>
-            <section class="right-section">
+            </div>
+            <div class="right-section">
                 <h1>Natallia Bialiatskaya</h1>
                 <h2>Junior Frontend Developer</h2>
 
@@ -180,6 +179,7 @@
                     <h3>Code example</h3>
                     <div>
                         <pre class="code-example">
+    
     // my code on codewars.com
     // Your task is to create the functionisDivideBy (or is_divide_by) 
     // to check if an integer number is divisible by both integers a and b.
@@ -187,13 +187,31 @@
     // good luck
        return (number % a == 0) && (number % b == 0);
     }</pre>
-    </div>
+                    </div>
                 </article>
-            </section>            
+            </div>            
         </main>
 
-        <footer>
-            <p>RSS footer</p>
+        <footer class="menu-back">
+            <ul class="bottom-menu">
+                <li class="bottom-menu-item">
+                    <div class="bottom-menu-item-text">
+                        <a href="https://natal-lia-b.github.io/">My GitHub</a>
+                    </div>
+                </li>
+                <li class="bottom-menu-item">
+                    <div class="bottom-menu-item-text">
+                        <p>2022</p>
+                    </div>
+                </li>
+                <li class="bottom-menu-item">
+                    <div class="bottom-menu-item-text">
+                        <a href="https://rs.school/js/">
+                            <img src="assets/svg/rs_school_js.svg" alt="rs-scholl-logo" style="height: 60px; padding-top: 5px;">
+                        </a>
+                    </div>
+                </li>
+            </ul>
         </footer>
     </body>
 </html>

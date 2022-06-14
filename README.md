@@ -1,3 +1,4 @@
 # rsschool-cv
 
-https://github.com/natal-lia-b/rsschool-cv/tree/gh-pages/cv.md
+## https://natal-lia-b.github.io/rsschool-cv/cv
+## https://natal-lia-b.github.io/rsschool-cv/

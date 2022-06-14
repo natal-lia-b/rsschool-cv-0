@@ -1,0 +1,160 @@
+body {
+  font: 16px/1.5 Arial, sans-serif;
+  width: 1080px;
+  margin: 0px auto; 
+}
+
+.top-menu {
+	width: 100%; /* Ширина основного блока меню */
+	height: auto; /* Высота основного блока меню */
+	position: relative;
+	display: table;
+	margin: 0;
+	padding: 0;
+  vertical-align: middle;
+}
+
+.top-menu .top-menu-item {
+  display: table-cell;
+	position: relative;
+
+}
+
+.top-menu .top-menu-item .top-menu-item-text {
+  display: block;
+	position: relative;
+	width: 100%;
+	height: 50px;
+ 	text-align:center;
+  text-decoration: none;
+  font-weight: bold;
+  color: #333333;
+  background-color: #eeeeee;
+}
+
+.top-menu .top-menu-item-text:hover {
+  text-decoration: underline;
+  color: #000000;
+  background-color: rgba(154, 237, 255, 0.5);
+}
+
+.left-section {
+  background-color: #9aedff80;
+  width: 300px;
+  height: 1700px;  
+  display: block;
+  float: left;
+  padding: 20px;
+}
+
+.left-section p {
+  text-align: justify;
+  text-indent: 20px;
+}
+
+.left-section h3 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.about-me {
+  margin-bottom: 100px;
+}
+
+.languages {
+  margin-bottom: 235px;
+}
+
+.img-left {
+  width: 260px;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+#contacts div {
+    margin-bottom: 15px;
+    text-overflow: auto;
+    display: flex;
+    align-items: center;
+}
+
+.img-contacts {
+  width: 32px;
+  margin-right: 25px;
+}
+
+.right-section {
+  background-color: #f8f8f8;
+  width: 710px;
+  height: 1740px;
+  margin-left: 340px;
+  float: inline-end;
+  padding-left: 30px;
+}
+
+h1 {
+  font: bold 48px caption Arial, sans-serif;
+  padding-top: 30px;
+}
+
+h2 {
+  font: italic 24px caption;
+  margin-bottom: 90px;
+}
+
+h3 {
+  margin-top: 20px;
+}
+
+h4 {
+  font-variant: small-caps;
+  font-weight: bold;
+  margin: 0px;
+}
+
+.content-title p {
+  font-style: italic;
+  margin: 0px;
+}
+
+.skills-list {
+  padding: 0px 20px;
+  height: 100px;
+  display: flex;
+  flex-direction: column; 
+  flex-wrap: wrap;
+}
+
+.skills-list li {
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+
+.img-sertificate {
+  width: 300px;
+}
+
+.certificate-list {
+  padding: 0px;
+  height: 320px;
+  display: flex;
+  flex-direction: column; 
+  flex-wrap: wrap;
+}
+
+#education div.content-title {
+  padding-bottom: 20px;
+}
+
+.code-example {
+  background-color: rgb(255, 255, 255);
+  border: 1px #ebebeb solid;
+  padding-right: 30px;
+  padding-bottom: 30px;
+}
+
+.right-section .article {
+  border-top: 3px rgb(255, 255, 255) solid;
+  margin-bottom: 30px;
+}
+

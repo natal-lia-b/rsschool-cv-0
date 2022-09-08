@@ -1,10 +1,11 @@
 # Natallia Bialiatskaya
-I am a hardworking, quicklearning, responsible and friendly person. I like learning and developing my professional skills and abilities. 
+I am a hardworking, quick-learning, responsible and friendly person. I like learning and developing my professional skills and abilities. 
 
 ### Contacts
 - <natallia.bialiatskaya@gmail.com>
 - <https://github.com/natal-lia-b>
 - <https://linkedin.com/natalliabialiatskaya>
+- <https://www.codewars.com/users/natal-lia-b>
 
 ***
 
